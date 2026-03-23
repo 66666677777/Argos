@@ -1,0 +1,8 @@
+[tool.poetry]
+name = "Argos"
+version = "0.1.0"
+description = "A project description"
+authors = ["User <user@example.com>"]
+dependencies = {
+    "example-dependency" = "*"
+}
